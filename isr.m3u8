@@ -9,10 +9,9 @@ https://mako-streaming.akamaized.net/stream/hls/live/2033791/k12n12wad/index.m3u
 
 #EXTINF:-1,ערוץ 13
 https://d2xg1g9o5vns8m.cloudfront.net/out/v1/0855d703f7d5436fae6a9c7ce8ca5075/index.m3u8
-https://dsk76kvc9kie6.cloudfront.net/media/87f59c77-03f6-4bad-a648-897e095e7360/mainManifest.m3u8
 
 #EXTINF:-1,ערוץ 14
-https://n-121-4.il.cdn-redge.media/livehls/oil/ch14/live/ch14/live.livx/playlist.m3u8?renditions=&fmp4=&relativePaths=&dvr=7200000
+https://n-121-4.il.cdn-redge.media/livehls/oil/ch14/live/ch14/live.livx/playlist.m3u8
 
 #EXTINF:-1,مكان 33
 https://makan.media.kan.org.il/hls/live/2024680/2024680/master.m3u8
