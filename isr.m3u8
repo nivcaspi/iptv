@@ -3,8 +3,8 @@
 #EXTINF:-1,כאן 11
 https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8?renditions&fmp4
 
-#EXTINF:-1 group-title="Israel",ערוץ 12
-https://mako-streaming.akamaized.net/stream/hls/live/2033791/k12n12wad/index.m3u8|referer=https://www.n12.co.il/
+#EXTINF:-1,ערוץ 12
+https://mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?user_id=17dfeeccb080c87d89c2c015b51f5a81&_uid=643c7210-f4b9-4055-bd22-93ecc883f041&hdnea=st%3D1772660409%7Eexp%3D1772661309%7Eacl%3D%2F*%7Ehmac%3Db8609b5d3a5dd8a006e82d479961b1093a3bc25fba2e0379c7ec805b6486a859
 
 #EXTINF:-1,ערוץ 13
 https://d2xg1g9o5vns8m.cloudfront.net/out/v1/0855d703f7d5436fae6a9c7ce8ca5075/index.m3u8
