@@ -4,7 +4,7 @@
 https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8?renditions&fmp4
 
 #EXTINF:-1 group-title="Israel",ערוץ 12
-https://mako-streaming.akamaized.net/stream/hls/live/2033791/k12n12wad/index.m3u8|Referer=https://www.n12.co.il/&User-Agent=Mozilla/5.0
+https://mako-streaming.akamaized.net/stream/hls/live/2033791/k12n12wad/index.m3u8|referer=https://www.n12.co.il/
 
 #EXTINF:-1,ערוץ 13
 https://d2xg1g9o5vns8m.cloudfront.net/out/v1/0855d703f7d5436fae6a9c7ce8ca5075/index.m3u8
